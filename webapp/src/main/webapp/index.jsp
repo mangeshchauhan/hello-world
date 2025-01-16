@@ -3,6 +3,9 @@
 
     <label for="fname">First Name</label>
     <input type="text" id="fname" name="firstname" placeholder="Your name..">
+    
+    <label for="mname">First Name</label>
+    <input type="text" id="mname" name="Middlename" placeholder="Your Middle name..">
 
     <label for="lname">Last Name</label>
     <input type="text" id="lname" name="lastname" placeholder="Your last name..">
