@@ -15,6 +15,7 @@
       <option value="australia">Australia</option>
       <option value="canada">Canada</option>
       <option value="usa">USA</option>
+      <option value="India">INDIA</option>
     </select>
 
     <label for="subject">Subject</label>
